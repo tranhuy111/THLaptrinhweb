@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TranVuHuy_2280601266_Buoi5\\Baitaptuan5\\WebsiteBanHang\\WebsiteBanHang\\WebsiteBanHang.csproj",
+      "projectUniqueName": "C:\\Users\\tranh\\source\\repos\\WebsiteBanHang\\WebsiteBanHang\\WebsiteBanHang.csproj",
       "projectName": "WebsiteBanHang",
-      "projectPath": "D:\\TranVuHuy_2280601266_Buoi5\\Baitaptuan5\\WebsiteBanHang\\WebsiteBanHang\\WebsiteBanHang.csproj",
+      "projectPath": "C:\\Users\\tranh\\source\\repos\\WebsiteBanHang\\WebsiteBanHang\\WebsiteBanHang.csproj",
       "packagesPath": "C:\\Users\\tranh\\.nuget\\packages\\",
-      "outputPath": "D:\\TranVuHuy_2280601266_Buoi5\\Baitaptuan5\\WebsiteBanHang\\WebsiteBanHang\\obj\\",
+      "outputPath": "C:\\Users\\tranh\\source\\repos\\WebsiteBanHang\\WebsiteBanHang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
