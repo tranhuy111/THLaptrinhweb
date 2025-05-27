@@ -1,0 +1,8 @@
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.AssemblyReference.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.GeneratedMSBuildEditorConfig.editorconfig
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfoInputs.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfo.cs
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.CoreCompileInputs.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.MvcApplicationPartsAssemblyInfo.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cs

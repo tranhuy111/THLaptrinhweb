@@ -6,6 +6,7 @@
  <th>Name</th>
  <th>Price</th>
  <th>Description</th>
+ <th>Image</th>
  <th>Actions</th>
  </tr>
  </thead>
@@ -16,6 +17,9 @@
 				<td>@product.Name</td>
 				<td>@product.Price</td>
 				<td>@product.Description</td>
+				<td>
+                    <img src="@product.ImageUrl" alt="@product.Name" style="width: 100px; height: auto;" />
+				</td>
 				<td>
 					<a asp-action="Display" asp-route-id="@product.Id">View</a> |
 					<a asp-action="Update" asp-route-id="@product.Id">Edit</a> |
