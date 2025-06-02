@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Trang Web Bán Hàng</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TranVuHuy1.styles.css" asp-append-version="true" />
+    <style>
+        .site-header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+
+        .nav-menu {
+            background-color: #F7C741;
+            padding: 10px 0;
+        }
+
+            .nav-menu a {
+                color: black;
+                font-weight: 500;
+                padding: 8px 15px;
+                text-decoration: none;
+            }
+
+                .nav-menu a:hover {
+                    color: #333;
+                }
+
+        footer {
+            background-color: #f8f9fa;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="site-header">
+            <h1>Trang Web Bán Hàng</h1>
+        </div>
+        <div class="nav-menu">
+            <div class="container">
+                <div class="d-flex justify-content-center">
+                    <a asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                    <a asp-area="" asp-controller="Product" asp-action="Index">Sản Phẩm</a>
+                    <a asp-area="" asp-controller="Product" asp-action="Add">Thêm sản phẩm</a>
+                    <a asp-area="" asp-controller="Home" asp-action="Contact">Liên Hệ</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - WebsiteBanHang - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
