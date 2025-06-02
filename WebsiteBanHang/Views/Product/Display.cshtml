@@ -1,0 +1,29 @@
+﻿@model WebsiteBanHang.Models.Product
+
+<div class="product-details">
+    <h2>Product Details</h2>
+    <h4>Name: @Model.Name</h4>
+    <h4>Price: @Model.Price</h4>
+    <h4>Description: @Model.Description</h4>
+
+    <div class="product-image-container">
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="product-image" />
+        }
+
+        @if (Model.ImageUrls != null && Model.ImageUrls.Any())
+        {
+            <div class="additional-images">
+                @foreach (var imageUrl in Model.ImageUrls)
+                {
+                    <img src="@imageUrl" alt="@Model.Name" class="product-image-thumbnail" />
+                }
+            </div>
+        }
+    </div>
+
+    <div class="action-buttons">
+        <a href="@Url.Action("Index")" class="back-to-list">Back to List</a>
+    </div>
+</div>
