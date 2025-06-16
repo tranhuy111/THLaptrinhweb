@@ -1,0 +1,17 @@
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.AssemblyReference.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.GeneratedMSBuildEditorConfig.editorconfig
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfoInputs.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfo.cs
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.CoreCompileInputs.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.MvcApplicationPartsAssemblyInfo.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cache
+M:\TranVuHuy1\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cs
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.AssemblyReference.cache
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfoInputs.cache
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.AssemblyInfo.cs
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.csproj.CoreCompileInputs.cache
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.MvcApplicationPartsAssemblyInfo.cache
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cache
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.RazorAssemblyInfo.cs
+D:\THLaptrinhweb\THLaptrinhweb\TranVuHuy\obj\Debug\net8.0\TranVuHuy.sourcelink.json

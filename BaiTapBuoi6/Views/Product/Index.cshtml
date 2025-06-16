@@ -1,0 +1,93 @@
+﻿@model IEnumerable<BaiTapBuoi6.Models.Product>
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mb-4">
+    <!-- Phần lọc theo danh mục -->
+    <div class="col-md-3">
+        <div class="card shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <i class="bi bi-filter"></i> Danh mục sản phẩm
+            </div>
+            <div class="list-group list-group-flush">
+                <a href="@Url.Action("Index")"
+                   class="list-group-item list-group-item-action d-flex justify-content-between align-items-center @(ViewBag.CurrentCategory == null ? "active" : "")">
+                    Tất cả sản phẩm
+                </a>
+                @foreach (var category in ViewBag.Categories)
+                {
+                    <a href="@Url.Action("Index", new { categoryId = category.Id })"
+                       class="list-group-item list-group-item-action d-flex justify-content-between align-items-center @(ViewBag.CurrentCategory == category.Id ? "active" : "")">
+                        @category.Name
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- Phần hiển thị sản phẩm -->
+    <div class="col-md-9">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var product in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm border-0 bg-light">
+                        <div class="product-image-wrapper">
+                            @if (!string.IsNullOrEmpty(product.ImageUrl))
+                            {
+                                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                            }
+                            else
+                            {
+                                <img src="/images/no-image.png" class="card-img-top" alt="No Image">
+                            }
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title text-truncate">@product.Name</h5>
+                            <p class="card-text small text-truncate text-muted">@product.Description</p>
+                            <p class="card-text">
+                                <span class="badge bg-primary rounded-pill">@product.Category?.Name</span>
+                            </p>
+                            <h6 class="card-subtitle text-danger fw-bold">
+                                @product.Price.ToString("N0") $
+                            </h6>
+                        </div>
+                        <div class="card-footer bg-transparent border-top-0 p-3">
+                            <a asp-controller="Product" asp-action="Display" asp-route-id="@product.Id"
+                               class="btn btn-primary w-100 rounded-3">
+                                <i class="bi bi-eye"></i> Xem chi tiết
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    .product-image-wrapper {
+        position: relative;
+        width: 100%;
+        padding-top: 100%; /* Creates a square aspect ratio */
+        overflow: hidden;
+        border-radius: 8px 8px 0 0;
+    }
+
+        .product-image-wrapper img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+    .card:hover .product-image-wrapper img {
+        transform: scale(1.05);
+    }
+</style>
