@@ -65,12 +65,16 @@ wwwroot\favicon.ico
 wwwroot\images\products\128d3bb7-e63e-406a-97ae-f8a511a676bb.jpg
 wwwroot\images\products\2c3369b8-a914-4aab-b64c-8b04f8553c74.jpg
 wwwroot\images\products\2ffea60e-2ff1-4ae2-a009-6596666f42f6.jpg
+wwwroot\images\products\3433ea80-f23b-4b4d-9a32-424f3a6c4689.jpg
+wwwroot\images\products\3d5c8378-e94e-4965-96a8-965118a7e50f.jpg
+wwwroot\images\products\528ff8a1-cd04-4de8-9416-54ffa32f3971.jpg
 wwwroot\images\products\710b8442-e491-438d-a2c0-8bf85d4d2164.png
 wwwroot\images\products\966c66f6-6206-4fc4-bdb3-036e76073876.jpg
 wwwroot\images\products\a909255b-b3a4-4775-88da-7c2a3d9a0aac.jpg
 wwwroot\images\products\airpods-pro-2.jpg
 wwwroot\images\products\apple-watch-s9.jpg
 wwwroot\images\products\cd6419c7-8ea3-4639-a166-a53c348515c5.jpg
+wwwroot\images\products\d7285174-1a8d-4a6e-9ac8-340bce1c0a81.png
 wwwroot\images\products\delli7.jpg
 wwwroot\images\products\e49636f7-8f9a-43c5-a4eb-aa16fe588762.jpg
 wwwroot\images\products\e49f48b7-81a0-4187-a6bf-35596a841a44.jpg
