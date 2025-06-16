@@ -5,11 +5,17 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
+builder.Services.AddDbContext<ApplicationDbContext>(options =>options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-
+// Đặt trước AddControllersWithViews();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+builder.Services.AddControllersWithViews();
 // Thay bằng
 //builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => {
 //    // Cấu hình identity options nếu cần
@@ -62,7 +68,10 @@ app.MapStaticAssets();
 app.UseAuthentication(); ;
 app.UseAuthorization();
 app.MapRazorPages();
-
+// Đặt trước UseRouting
+app.UseSession();
+// Các middleware khác...
+app.UseRouting();
 //app.MapControllerRoute(
 //    name: "default",
 //    pattern: "{controller=Home}/{action=Index}/{id?}")

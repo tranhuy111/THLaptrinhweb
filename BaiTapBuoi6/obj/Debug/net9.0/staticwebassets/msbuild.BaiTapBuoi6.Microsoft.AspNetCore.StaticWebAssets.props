@@ -108,6 +108,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\2ffea60e-2ff1-4ae2-a009-6596666f42f6.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\3433ea80-f23b-4b4d-9a32-424f3a6c4689.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BaiTapBuoi6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BaiTapBuoi6</BasePath>
+      <RelativePath>images/products/3433ea80-f23b-4b4d-9a32-424f3a6c4689.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tdgbxa9e5k</Fingerprint>
+      <Integrity>sWAEtBm3teRfGLUqs9azBjyGpvi/xg1VQniTDAQpdOE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\3433ea80-f23b-4b4d-9a32-424f3a6c4689.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\3d5c8378-e94e-4965-96a8-965118a7e50f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BaiTapBuoi6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BaiTapBuoi6</BasePath>
+      <RelativePath>images/products/3d5c8378-e94e-4965-96a8-965118a7e50f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gevwb925jl</Fingerprint>
+      <Integrity>CIoS9ZRJm3DkQtSPQBvofykKqYU4rBqn+r3rHov772k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\3d5c8378-e94e-4965-96a8-965118a7e50f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\528ff8a1-cd04-4de8-9416-54ffa32f3971.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BaiTapBuoi6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BaiTapBuoi6</BasePath>
+      <RelativePath>images/products/528ff8a1-cd04-4de8-9416-54ffa32f3971.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a7b1bpk34f</Fingerprint>
+      <Integrity>CiLzz8glAviWC9W0NWQVViW1RtHOKTHUy569ws0p6hY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\528ff8a1-cd04-4de8-9416-54ffa32f3971.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\710b8442-e491-438d-a2c0-8bf85d4d2164.png'))">
       <SourceType>Package</SourceType>
       <SourceId>BaiTapBuoi6</SourceId>
@@ -215,6 +269,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\cd6419c7-8ea3-4639-a166-a53c348515c5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d7285174-1a8d-4a6e-9ac8-340bce1c0a81.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BaiTapBuoi6</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BaiTapBuoi6</BasePath>
+      <RelativePath>images/products/d7285174-1a8d-4a6e-9ac8-340bce1c0a81.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ngft9v0qii</Fingerprint>
+      <Integrity>eQdOGkWPHq23ligJTLntqfVBBdJvSyWW61oVyaTQzfE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\d7285174-1a8d-4a6e-9ac8-340bce1c0a81.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\delli7.jpg'))">
       <SourceType>Package</SourceType>
