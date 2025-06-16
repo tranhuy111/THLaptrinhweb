@@ -1,0 +1,207 @@
+﻿@* @model BaiTapBuoi6.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="textdanger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId">Category</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories"
+                class="form-control"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUrl">Product Image</label>
+        <input type="file" asp-for="ImageUrl" class="form-control" id="imageInput" accept="image/*" />
+        <div class="mt-2">
+            <img id="imagePreview" src="#" alt="Preview" style="max-width: 200px; display: none;" class="img-thumbnail" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>
+
+@section Scripts {
+    <script>
+        document.getElementById('imageInput').addEventListener('change', function (e) {
+            const preview = document.getElementById('imagePreview');
+            const file = e.target.files[0];
+
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.style.display = 'block';
+                }
+                reader.readAsDataURL(file);
+            } else {
+                preview.src = '#';
+                preview.style.display = 'none';
+            }
+        });
+    </script>
+} *@
+
+
+@model BaiTapBuoi6.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Thêm sản phẩm mới";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">
+                        <i class="bi bi-plus-circle me-2"></i>Thêm sản phẩm mới
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                        <!-- Tên sản phẩm -->
+                        <div class="mb-4">
+                            <label asp-for="Name" class="form-label fw-bold">Tên sản phẩm</label>
+                            <div class="input-group">
+                                <span class="input-group-text">
+                                    <i class="bi bi-pencil"></i>
+                                </span>
+                                <input asp-for="Name" class="form-control" placeholder="Nhập tên sản phẩm" />
+                            </div>
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <!-- Giá sản phẩm -->
+                        <div class="mb-4">
+                            <label asp-for="Price" class="form-label fw-bold">Giá sản phẩm</label>
+                            <div class="input-group">
+                                <span class="input-group-text">
+                                    <i class="bi bi-currency-dollar"></i>
+                                </span>
+                                <input asp-for="Price" class="form-control" placeholder="Nhập giá sản phẩm" />
+                                <span class="input-group-text">USD</span>
+                            </div>
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <!-- Mô tả -->
+                        <div class="mb-4">
+                            <label asp-for="Description" class="form-label fw-bold">Mô tả</label>
+                            <div class="input-group">
+                                <span class="input-group-text">
+                                    <i class="bi bi-text-paragraph"></i>
+                                </span>
+                                <textarea asp-for="Description" class="form-control" rows="4"
+                                          placeholder="Nhập mô tả sản phẩm"></textarea>
+                            </div>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <!-- Danh mục -->
+                        <div class="mb-4">
+                            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+                            <div class="input-group">
+                                <span class="input-group-text">
+                                    <i class="bi bi-tag"></i>
+                                </span>
+                                <select asp-for="CategoryId" asp-items="ViewBag.Categories"
+                                        class="form-select">
+                                    <option value="">-- Chọn danh mục --</option>
+                                </select>
+                            </div>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+
+                        <!-- Hình ảnh -->
+                        <div class="mb-4">
+                            <label asp-for="ImageUrl" class="form-label fw-bold">Hình ảnh</label>
+                            <div class="input-group">
+                                <span class="input-group-text">
+                                    <i class="bi bi-image"></i>
+                                </span>
+                                <input type="file" asp-for="ImageUrl" class="form-control"
+                                       id="imageInput" accept="image/*" />
+                            </div>
+                            <div class="mt-2">
+                                <img id="imagePreview" src="#" alt="Preview"
+                                     class="img-thumbnail d-none" style="max-height: 200px;" />
+                            </div>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-secondary">
+                                <i class="bi bi-arrow-left me-1"></i>
+                                Quay lại
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="bi bi-plus-circle me-1"></i>
+                                Thêm sản phẩm
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById('imageInput').addEventListener('change', function (e) {
+            const preview = document.getElementById('imagePreview');
+            const file = e.target.files[0];
+
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.classList.remove('d-none');
+                }
+                reader.readAsDataURL(file);
+            } else {
+                preview.src = '#';
+                preview.classList.add('d-none');
+            }
+        });
+
+        // Bootstrap form validation
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
+}

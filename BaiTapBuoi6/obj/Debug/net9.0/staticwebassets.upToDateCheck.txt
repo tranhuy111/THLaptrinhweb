@@ -1,0 +1,141 @@
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation\LICENSE.md
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\css\site.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\favicon.ico
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\LICENSE.txt
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\jquery\dist\jquery.min.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\js\site.js
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\New folder\BT_LTWEB_Buoi6\BaiTapBuoi6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\products\128d3bb7-e63e-406a-97ae-f8a511a676bb.jpg
+wwwroot\images\products\2c3369b8-a914-4aab-b64c-8b04f8553c74.jpg
+wwwroot\images\products\2ffea60e-2ff1-4ae2-a009-6596666f42f6.jpg
+wwwroot\images\products\710b8442-e491-438d-a2c0-8bf85d4d2164.png
+wwwroot\images\products\966c66f6-6206-4fc4-bdb3-036e76073876.jpg
+wwwroot\images\products\a909255b-b3a4-4775-88da-7c2a3d9a0aac.jpg
+wwwroot\images\products\airpods-pro-2.jpg
+wwwroot\images\products\apple-watch-s9.jpg
+wwwroot\images\products\cd6419c7-8ea3-4639-a166-a53c348515c5.jpg
+wwwroot\images\products\delli7.jpg
+wwwroot\images\products\e49636f7-8f9a-43c5-a4eb-aa16fe588762.jpg
+wwwroot\images\products\e49f48b7-81a0-4187-a6bf-35596a841a44.jpg
+wwwroot\images\products\f95b5492-90ae-4a3e-ae66-5d0ee1a834ac.png
+wwwroot\images\products\ipad-pro-m2.jpg
+wwwroot\images\products\iphone-15-pro-max.jpg
+wwwroot\images\products\macbook-air-m2.jpg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
